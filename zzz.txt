@@ -1,0 +1,9 @@
+爽赞网：
+图片垂直居中     vertical-align: middle;
+keydown
+$('.nav>.w>a').each(function () {
+        if ($(this).attr('href') == url) {
+            $(this).addClass('select').siblings().removeClass('select');
+        }
+$().each()与$.each()方法
+<input type="radio" value="13" name="searchtab">
